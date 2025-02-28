@@ -1,0 +1,2 @@
+# DifyConversationManager
+用于管理XYBotV2的Dify会话插件
