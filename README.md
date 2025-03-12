@@ -1,5 +1,6 @@
 # Dify 对话管理插件 💬 (适用于 XYBotV2)
 
+<img src="https://github.com/user-attachments/assets/a2627960-69d8-400d-903c-309dbeadf125" width="400" height="600">
 ## 简介 🌟
 
 本插件为 XYBotV2 微信机器人提供 Dify (一个LLM应用开发平台) 对话管理功能。用户可以通过微信消息快捷地：
