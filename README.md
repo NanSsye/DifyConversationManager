@@ -73,3 +73,10 @@ message-separator = "---------------" # 消息分隔符
 # 调试设置
 debug = false # 是否启用调试模式
 log-level = "INFO" # 日志级别：DEBUG, INFO, WARNING, ERROR
+```
+
+**给个 ⭐ Star 支持吧！** 😊
+
+**开源不易，感谢打赏支持！**
+
+![image](https://github.com/user-attachments/assets/2dde3b46-85a1-4f22-8a54-3928ef59b85f)
