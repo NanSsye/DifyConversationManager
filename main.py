@@ -11,7 +11,7 @@ from database.XYBotDB import XYBotDB
 class DifyConversationManager(PluginBase):
     description = "Dify对话管理插件"
     author = "AI助手"
-    version = "1.0.0"
+    version = "1.1.0"
 
     def __init__(self):
         super().__init__()
