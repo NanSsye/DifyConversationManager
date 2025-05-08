@@ -1,8 +1,8 @@
 [DifyConversationManager]
 # 基础设置
 enable = true                                    # 是否启用插件
-api-key = ""       # Dify API密钥
-base-url = ""        # Dify API基础URL
+api-key = "app-9hiqqQIi8bZfvmaFc56WPyYH"       # Dify API密钥
+base-url = "http://192.168.6.19:8080/v1"        # Dify API基础URL
 http-proxy = ""                                 # HTTP代理设置（可选）
 
 # 分页设置
